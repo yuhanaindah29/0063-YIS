@@ -1,0 +1,5 @@
+Menggunakan alat lorem ipsum kami sangat mudah. Anda hanya perlu untuk:
+Memutuskan berapa jumlah kata / baris / kalimat / paragraf yang Anda inginkan
+Pilih sekiranya Anda menginginkan teks di baca dari kiri-ke-kanan atau kanan-ke-kiri
+Pilih antara format teks diperkaya atau HTML
+Klik tombol “BUAT” dan selesai sudah. Setelah isi dari lorem ipsum dibuat, Anda bisa memilih mengunduh teksnya, mengirimkan melalui email, atau menyalin langsung dari halaman web. Sungguh semudah itu!
